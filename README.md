@@ -18,38 +18,34 @@
 
 ## 🌐 Portfolio Home
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 100%); padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 100%); padding: 50px 30px; border-radius: 15px; margin: 30px 0; border: 1px solid #00d4ff;">
 
-<h3>✨ Pranav SINGAL</h3>
+<h1 style="font-size: 2.5em; margin: 0; background: linear-gradient(135deg, #00d4ff, #0099ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">✨ Pranav Singal</h1>
 
-<p style="color: #00d4ff; font-weight: bold; margin: 15px 0;">🟢 OPEN TO WORK</p>
+<p style="color: #00d4ff; font-weight: bold; margin: 15px 0; font-size: 1.2em;">🟢 OPEN TO WORK</p>
 
-### Hi, I'm **Pranav**
-<h4>Computer Science Undergraduate</h4>
+<h3 style="margin: 10px 0; color: #c9d1d9;">Computer Science Undergraduate</h3>
 
-<p>📍 Based in Faridabad, Haryana • Studying at VIT Bhopal University</p>
+<p style="color: #8b949e; margin: 10px 0;">📍 Based in Faridabad, Haryana • Studying at VIT Bhopal University</p>
 
-<div style="margin: 25px 0;">
-  <a href="mailto:your.email@example.com" style="display: inline-block; margin: 8px; padding: 10px 20px; background: white; color: black; border-radius: 25px; text-decoration: none; font-weight: bold;">📧 Contact Me</a>
-  <a href="https://linkedin.com/in/pranavsinghal" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #00d4ff; color: #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold;">in LinkedIn</a>
+<div style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/pranav-singal" style="display: inline-block; padding: 12px 24px; background: #0077B5; color: white; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 0.95em;">in LinkedIn</a>
+  <a href="https://github.com/Pranavsingal" style="display: inline-block; padding: 12px 24px; background: #181717; color: white; border: 2px solid #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 0.95em;">🐙 GitHub</a>
 </div>
 
-<div style="margin: 15px 0;">
-  <a href="https://github.com/Pranavsingal" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #00d4ff; color: #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold;">🐙 GitHub</a>
-  <a href="https://leetcode.com/yourprofile" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #ff6b6b; color: #ff6b6b; border-radius: 25px; text-decoration: none; font-weight: bold;">💻 LeetCode</a>
-  <a href="https://yourcodechef.com" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #ffd700; color: #ffd700; border-radius: 25px; text-decoration: none; font-weight: bold;">🏆 Codechef</a>
-  <a href="https://yourinstagram.com" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #e1306c; color: #e1306c; border-radius: 25px; text-decoration: none; font-weight: bold;">📱 Instagram</a>
+<div style="margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <a href="https://leetcode.com/u/Pranav_Singal/" style="display: inline-block; padding: 12px 24px; background: #FFA116; color: black; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 0.95em;">💻 LeetCode</a>
+  <a href="https://codolio.com/profile/Pranav%20Singal" style="display: inline-block; padding: 12px 24px; border: 2px solid #FF6B35; color: #FF6B35; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 0.95em;">🎯 Codolio</a>
+  <a href="https://portfolio-s8lr.vercel.app/" style="display: inline-block; padding: 12px 24px; border: 2px solid #00d4ff; color: #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 0.95em;">🌐 Portfolio</a>
 </div>
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&width=800&lines=Software+Engineer+%2F+AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&width=800&lines=Software+Engineer+%2F+AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
-
----
 
 ### 🎯 About Me
 
@@ -265,12 +261,11 @@ Q4 2024: 📌 LLM Fine-tuning & Deployment
 
 ### Let's Build Something Amazing Together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavsinghal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-singal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranavsingal)
-[![Twitter/X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pranav_Singal/)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logo=codechef&logoColor=white)](https://codolio.com/profile/Pranav%20Singal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-s8lr.vercel.app/)
 
 **Feel free to reach out for collaborations, internships, or just to chat about tech! 💬**
 
@@ -296,6 +291,6 @@ Q4 2024: 📌 LLM Fine-tuning & Deployment
 
 ### ⭐ If you find my work interesting, feel free to star some repos and follow! 🌟
 
-**Made with 💙 by Pranav Singhal** | Visitors: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pranavsingal)
+**Made with 💙 by Pranav Singal** | Visitors: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pranavsingal)
 
 </div>
