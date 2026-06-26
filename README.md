@@ -217,8 +217,7 @@ Q4 2024: 📌 LLM Fine-tuning & Deployment
          📌 Kubernetes Mastery
          📌 Open Source Contributions
 
-2025:    🎯 Google SWE Internship
-         🎯 Build Production AI Systems
+2025:    🎯 Build Production AI Systems
          🎯 Lead Technical Projects
 ```
 
