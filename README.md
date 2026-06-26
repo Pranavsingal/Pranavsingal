@@ -10,23 +10,50 @@
     </linearGradient>
   </defs>
   <path d="M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z" fill="url(#waveGradient)" opacity="0.8">
-    <animate attributeName="d" values="M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z;M0,60 Q300,10 600,60 T1200,60 L1200,120 L0,120 Z;M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="d" values="M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z;M0,60 Q300,10 600,60 T1200,60 L1200,120 L0,120 Z;M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z" dur="6s" repeatCount="indefinite" />
   </path>
 </svg>
 
 ---
 
-## 👋 Hey there! I'm **Pranav Singhal**
+## 🌐 Portfolio Home
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&width=800&lines=Software+Engineer+%2F+AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Building+Something+Cool+🚀" alt="Typing SVG" />
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 100%); padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
+
+<h3>✨ Pranav SINGAL</h3>
+
+<p style="color: #00d4ff; font-weight: bold; margin: 15px 0;">🟢 OPEN TO WORK</p>
+
+### Hi, I'm **Pranav**
+<h4>Computer Science Undergraduate</h4>
+
+<p>📍 Based in Faridabad, Haryana • Studying at VIT Bhopal University</p>
+
+<div style="margin: 25px 0;">
+  <a href="mailto:your.email@example.com" style="display: inline-block; margin: 8px; padding: 10px 20px; background: white; color: black; border-radius: 25px; text-decoration: none; font-weight: bold;">📧 Contact Me</a>
+  <a href="https://linkedin.com/in/pranavsinghal" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #00d4ff; color: #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold;">in LinkedIn</a>
+</div>
+
+<div style="margin: 15px 0;">
+  <a href="https://github.com/Pranavsingal" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #00d4ff; color: #00d4ff; border-radius: 25px; text-decoration: none; font-weight: bold;">🐙 GitHub</a>
+  <a href="https://leetcode.com/yourprofile" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #ff6b6b; color: #ff6b6b; border-radius: 25px; text-decoration: none; font-weight: bold;">💻 LeetCode</a>
+  <a href="https://yourcodechef.com" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #ffd700; color: #ffd700; border-radius: 25px; text-decoration: none; font-weight: bold;">🏆 Codechef</a>
+  <a href="https://yourinstagram.com" style="display: inline-block; margin: 8px; padding: 10px 20px; border: 2px solid #e1306c; color: #e1306c; border-radius: 25px; text-decoration: none; font-weight: bold;">📱 Instagram</a>
+</div>
+
+</div>
 
 ---
 
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&width=800&lines=Software+Engineer+%2F+AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+
+---
+
 ### 🎯 About Me
 
-I'm a **passionate Software Engineer** and **AI & Machine Learning Engineer** with a mission to build intelligent, scalable solutions. I love working across the entire stack—from cloud infrastructure to cutting-edge AI models—and I'm obsessed with writing clean, efficient code. Currently grinding towards a **Google SWE Internship** while building projects that solve real-world problems.
+I'm a **passionate Software Engineer** and **AI & Machine Learning Engineer** with a mission to build intelligent, scalable solutions. I love working across the entire stack—from cloud infrastructure to cutting-edge AI models. My expertise spans full-stack development, machine learning operations, and system design.
 
 **When I'm not coding:** You'll find me experimenting with new ML techniques, optimizing system design, or contributing to open-source projects.
 
@@ -137,11 +164,11 @@ I'm a **passionate Software Engineer** and **AI & Machine Learning Engineer** wi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavsingal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d4ff&icon_color=00d4ff&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavsingal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d4ff&icon_color=00d4ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsingal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d4ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranavsingal&theme=dark&background=0d1117&stroke=00d4ff&fire=00d4ff&ring=00d4ff&currStreakNum=c9d1d9&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=00d4ff&dates=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranavsingal&theme=dark&background=0d1117&stroke=00d4ff&fire=00d4ff&ring=00d4ff&currStreakNum=c9d1d9&currStreakLabel=00d4ff)
 
 </div>
 
@@ -161,7 +188,7 @@ I'm a **passionate Software Engineer** and **AI & Machine Learning Engineer** wi
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranavsingal&theme=dark-dimmed&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00d4ff&point=c9d1d9&line=00d4ff&hide=issues)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranavsingal&theme=dark-dimmed&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=0d1117)
 
 </div>
 
@@ -263,7 +290,7 @@ Q4 2024: 📌 LLM Fine-tuning & Deployment
     </linearGradient>
   </defs>
   <path d="M0,30 Q300,0 600,30 T1200,30 L1200,100 L0,100 Z" fill="url(#footerWave)" opacity="0.6">
-    <animate attributeName="d" values="M0,30 Q300,0 600,30 T1200,30 L1200,100 L0,100 Z;M0,40 Q300,10 600,40 T1200,40 L1200,100 L0,100 Z;M0,30 Q300,0 600,30 T1200,30 L1200,100 L0,100 Z" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="d" values="M0,30 Q300,0 600,30 T1200,30 L1200,100 L0,100 Z;M0,40 Q300,10 600,40 T1200,40 L1200,100 L0,100 Z;M0,30 Q300,0 600,30 T1200,30 L1200,100 L0,100 Z" dur="6s" repeatCount="indefinite" />
   </path>
 </svg>
 
