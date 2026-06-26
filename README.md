@@ -16,8 +16,6 @@
 
 ---
 
-## 🌐 Portfolio Home
-
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 100%); padding: 50px 30px; border-radius: 15px; margin: 30px 0; border: 1px solid #00d4ff;">
 
 <h1 style="font-size: 2.5em; margin: 0; background: linear-gradient(135deg, #00d4ff, #0099ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">✨ Pranav Singal</h1>
